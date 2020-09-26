@@ -1,0 +1,8 @@
+                                            Microsoft Office 355
+                                            
+    Am ales sa prezint aplicatia software-as-a-service Microsoft Office 365. Folosesc aceasta aplicatie in 
+cadrul companiei in care lucrez. Ofera acces la diverse aplicatii cum ar fi Microsoft Teams, Outlook, Word,
+PowerPoint, etc. Pe langa aceste aplicatii ofera si 1TB stocare cloud pe OneDrive. Prin intermediul aplica-
+tiei Microsoft Teams se pot organiza meeting-uri, ofera o interfata de chat, creearea de grupuri si multe
+altele. Outlook ofera o interfata pentru gestionarea email-urilor, acest tool ofera si un calendar in care
+se pot observa toate meeting-urile programate.
